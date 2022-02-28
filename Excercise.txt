@@ -6,3 +6,5 @@ Basics of Multi Threading
 4) WAP to show usage of Callable and demonstrate how it is different from Runnable
 5) Write a program to simulate a deadlock in java and then improve the program to handle the deadlock using reentract lock.
 
+Doc File Link : https://docs.google.com/document/d/1Z3fsDZ6K8n8xwecmabfninsQYcTuA86R3Khkzl4mh2E/edit?usp=sharing
+Github Repo Link : https://github.com/parulsharma01/MultiThreading 
